@@ -1,5 +1,5 @@
 employee name where eid is 5, 6 or 3
-empid where eid is 6 or eid is 4 and pid is 20
+empid where eid is 6 or eid is 4 and pid is 40
 empid where eid is 2 or 5 and greater than 4
 name of the employee where eid greater than 10 or less than equal to 25
 employee salary where eid greater than 9 or deptid not equal 33 and project id lesser equal than 28
